@@ -22,4 +22,6 @@ int main()
     for ( r = 0 ; r < 8 ; r++) {
         printf("*rainha* esquerda\n");// imprime a direcao do movimento
     }
+    
+    return = 0;
 }
